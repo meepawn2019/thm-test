@@ -1,3 +1,9 @@
 [submodule "thm-test-backend"]
 	path = thm-test-backend
 	url = https://github.com/meepawn2019/thm-test-backend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/meepawn2019/thm-test-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/meepawn2019/thm-test-frontend.git
